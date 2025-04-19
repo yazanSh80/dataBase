@@ -9,7 +9,7 @@ public class MySQLJDBCConnection {
 		String url = "jdbc:mysql://localhost:3306/";
 		String dbName = "InventoryDb";
 		String userName = "root";
-		String password = "Yy@102030";
+		String password = "hihi0";
 		String dbURL = url + dbName;
 
 		Connection connection = null;
